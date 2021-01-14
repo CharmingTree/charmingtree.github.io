@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/ov"
+baseurl: ""
 url: "https://charmingtree.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
