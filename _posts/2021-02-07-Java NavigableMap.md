@@ -3,7 +3,7 @@ layout: post
 title: JAVA 일반적인 프로그래밍 원칙 정리 Effective Java
 hide_title: false 
 bootstrap: true                                   # Add bootstrap to the page
-tags: [Java] [Java StdLib]
+tags: [Java, Java StdLib]
 ---
 ## JAVA Standard Library 
 
