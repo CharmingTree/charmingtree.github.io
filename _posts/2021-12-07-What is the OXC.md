@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: What is the OXC (Optical Cross-Connect)
@@ -6,7 +5,6 @@ hide_title: false
 bootstrap: true                                   # Add bootstrap to the page
 tags: [transmission, network]
 ---
-
 
 
 <H3>What is the OXC (Optical Cross-Connect)?</H3>
